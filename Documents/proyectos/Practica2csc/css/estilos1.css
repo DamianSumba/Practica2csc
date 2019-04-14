@@ -1,0 +1,122 @@
+#logo {
+	text-align: center;
+    background-size: 100% 100%;
+    color: blue;
+    margin :50px;
+    padding:50px;
+    border: 1px solid black;
+}
+
+#logot{
+    margin :1px;
+    padding:1px;
+    border: 5px solid black; 
+}
+
+#musica {
+    text-align: left;
+	background-repeat: no-repeat;
+    width: 25%;
+    background-color: darksalmon;
+    color: black ;
+    margin :0px;
+    padding:10px;
+    border: 1px solid black;
+    text-align: justify;
+
+}
+
+#navegacion{
+    margin :0px;
+    padding:10px;
+    border-radius: 20px solid black;   
+    background-color: coral;
+    position: relative;
+    width: 25%;
+    align-content: center;
+    text-align: justify;
+    text-align: left;
+}
+
+#salsa{
+    margin :10px;
+    padding:10px;
+    border-radius: 22px;
+    border: 1px solid black;
+    background-color: darkorange;
+    width: 35%;
+}
+
+#clasica{
+    margin :10px;
+    padding:10px;
+    border: 1px solid black;
+    border-radius: 22px;
+    background-color: darkorange;
+    width: 35%;
+}
+
+#merengue{
+    margin :10px;
+    padding:10px;
+    border: 1px solid black;
+    border-radius: 22px;
+    background-color: darkorange;
+    width: 35%;
+}
+
+#rock{
+    margin :10px;
+    padding:10px;
+    border: 1px solid black;
+    border-radius: 22px;
+    background-color: darkorange;
+    width: 35%;
+}
+
+#cumbia{
+    margin :10px;
+    padding:10px;
+    border: 1px solid black;
+    border-radius: 22px;
+    background-color: darkorange;
+    width: 35%;
+}
+
+#sesion{
+    margin :10px;
+    padding:10px;
+    border: 1px solid black;
+    width: 50%;
+    position: relative  ;
+}
+
+#general {
+    margin: auto;
+}
+
+#sesion{
+    
+    float: right;
+    float: both;
+    
+}
+
+#video{
+    margin :10px;
+    padding:10px;
+    border: 1px solid black;
+    width: 50%;
+}
+#datos{
+    margin :10px;
+    padding:10px;
+    border: 1px solid black;
+    width: 100%;
+
+}
+/*#cuerpo {
+    margin :50px;
+    padding:50px;
+    border: 1px solid black;
+}*/
