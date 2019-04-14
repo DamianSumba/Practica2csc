@@ -1,0 +1,43 @@
+#titulo{
+    font: 800;
+    font: 100;
+    font-weight: 900;
+    color: brown;
+    width: 50%;
+    height: 50%;
+}
+
+*{
+    background-color: darkkhaki;
+}
+
+#cont{
+    width: 45%;
+    margin :0px;
+    padding:10px;
+    border: 1px solid black;
+
+    text-align: justify;
+}
+
+#logo{
+    
+    
+    
+}
+
+#ima{
+    position: relative;
+    float: right;
+    clear: all;
+}
+
+.dat{
+    width: 50%;
+    margin :1px;
+    top: auto;
+    padding:1px;
+    float: right;
+    border: 5px solid black;
+    
+}
