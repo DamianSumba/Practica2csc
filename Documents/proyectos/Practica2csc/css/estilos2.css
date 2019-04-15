@@ -83,3 +83,135 @@ labelc{
     display: block;
     margin: .5em 0 0 0
 }
+
+
+/*pagina cumbia*/
+
+#logo{
+    margin: auto,
+}
+
+#titulo{
+    font: 800;
+    font: 100;
+    font-weight: 900;
+    color: brown;
+    width: 50%;
+    height: 50%;
+}
+
+*{
+    background-color: darkkhaki;
+}
+
+#cont{
+
+    height: 500px;
+    border: 1px blue ridge;
+    float: left;
+    width: 44.7%;
+    background-color: burlywood;
+    margin: 5px;
+    padding: 10px;
+
+}
+
+
+#ima{
+    
+    height: 500px;
+    border: 1px blue ridge;
+    float: left;
+    width: 48%;
+    background-color: burlywood;
+    margin: 5px;
+    padding: 10px;
+}
+
+.dat{
+    width: 100%;
+    margin :1px;
+    top: auto;
+    padding:1px;
+    float: right;
+    border: 5px solid black;
+    
+}
+
+/*pagina musica clasica */
+
+.contCla{
+    height: 350px;
+    border: 1px blue ridge;
+    float: left;
+    width: 44.7%;
+    background-color: burlywood;
+    margin: 5px;
+    padding: 10px;
+
+}
+
+.mozart{
+    height: 350px;
+    border: 1px blue ridge;
+    float: left;
+    width: 44.7%;
+    background-color: burlywood;
+    margin: 5px;
+    padding: 10px;
+
+}
+
+#textMoz{
+    height: 300px;
+    border: 1px blue ridge;
+    float: left;
+    width: 50%;
+    background-color: burlywood;
+    margin: 5px;
+    padding: 10px;
+}
+
+.bach{
+    height: 350px;
+    border: 1px blue ridge;
+    float: left;
+    width: 44.7%;
+    background-color: burlywood;
+    margin: 5px;
+    padding: 10px;
+
+}
+
+#textBach{
+    height: 300px;
+    border: 1px blue ridge;
+    float: left;
+    width: 50%;
+    background-color: burlywood;
+    margin: 5px;
+    padding: 10px;
+}
+
+.bethoven{
+    height: 350px;
+    border: 1px blue ridge;
+    float: left;
+    width: 50%;
+    background-color: burlywood;
+    margin: 5px;
+    padding: 10px;
+
+}
+
+#textBet{
+    height: 300px;
+    border: 1px blue ridge;
+    float: left;
+    width: 40%;
+    background-color: burlywood;
+    margin: 5px;
+    padding: 10px;
+}
+
+
