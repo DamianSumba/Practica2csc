@@ -12,12 +12,15 @@
 }
 
 #cont{
-    width: 45%;
-    margin :0px;
-    padding:10px;
-    border: 1px solid black;
 
-    text-align: justify;
+    height: 500px;
+    border: 1px blue ridge;
+    float: left;
+    width: 44.7%;
+    background-color: burlywood;
+    margin: 5px;
+    padding: 10px;
+
 }
 
 #logo{
@@ -27,13 +30,18 @@
 }
 
 #ima{
-    position: relative;
-    float: right;
-    clear: all;
+    
+    height: 500px;
+    border: 1px blue ridge;
+    float: left;
+    width: 44.7%;
+    background-color: burlywood;
+    margin: 5px;
+    padding: 10px;
 }
 
 .dat{
-    width: 50%;
+    width: 100%;
     margin :1px;
     top: auto;
     padding:1px;
