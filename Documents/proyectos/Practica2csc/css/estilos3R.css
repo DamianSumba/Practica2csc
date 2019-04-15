@@ -1,49 +1,76 @@
 
-/*
+/*estilos de letras */
 
-#titulo{
-    font: 800;
-    font: 100;
-    font-weight: 900;
-    color: brown;
-    width: 50%;
-    height: 50%;
+#musica{
+
+    color: crimson;
+    font-size: 200%;
+    text-align: justify;
 }
 
-*{
-    background-color: darkkhaki;
+h1{
+    color: lightslategray;
+    font-style: oblique;
+    text-align: justify;
+    background-color: darksalmon;
+    
+
+}
+
+article{
+
+    color: cadetblue;
+    background-color: coral;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+
+/*manejo de etiquetas*/
+
+#navegacion{
+    color: darkblue;
+    background-color: blueviolet;
+}
+
+
+}
+
+
+
+#textBach{
+    color: green;
+    text-align: justify;
+}
+
+.bethoven{
+   color: darkgoldenrod;
+   background-color: darkkhaki;
+   text-align: justify;
+
+
+}
+
+#textBet{
+    text-align: justify;
+    color: blue;
+    background-color: aqua;
 }
 
 #cont{
 
-    height: 500px;
-    border: 1px blue ridge;
-    float: left;
-    width: 44.7%;
-    background-color: burlywood;
-    margin: 5px;
-    padding: 10px;
+color: chocolate;
+background-color: darkorange;
 
 }
 
-#ima{
-    
-    height: 500px;
-    border: 1px blue ridge;
-    float: left;
-    width: 44.7%;
-    background-color: burlywood;
-    margin: 5px;
-    padding: 10px;
-}
+
+
 
 .dat{
-    width: 100%;
-    margin :1px;
-    top: auto;
-    padding:1px;
-    float: right;
-    border: 5px solid black;
+   color: aqua;
+    font-family: 'Courier New', Courier, monospace;
     
 }
-*/
+
+
